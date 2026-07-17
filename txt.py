@@ -4,8 +4,8 @@ from datetime import datetime
 # ===== CONFIGURATION =====
 # Add your list of TXT file URLs here
 TXT_FILES = [
-    "https://example.com/file1.txt",
-    "https://example.com/file2.txt",
+    "https://github.com/insa-ship-it/text-combiner/raw/refs/heads/main/combos/143.244.35.74_80.txt",
+    "https://github.com/insa-ship-it/text-combiner/raw/refs/heads/main/combos/172.110.221.91_8080.txt",
 ]
 
 # Output file
