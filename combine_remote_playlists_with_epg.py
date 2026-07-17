@@ -28,7 +28,7 @@ PLAYLISTS = [
 EPG_URL = "https://github.com/insa-ship-it/multi-epg-light/raw/refs/heads/main/epgs/light-epg.xml.gz"
 
 # Output file
-OUTPUT_FILE = "combined_playlist.m3u"
+OUTPUT_FILE = "combined_playlist.txt"
 
 # ===== FUNCTIONS =====
 def get_playlist_name(url):
