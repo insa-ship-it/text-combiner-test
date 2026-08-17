@@ -4,8 +4,9 @@ from datetime import datetime
 # ===== CONFIGURATION =====
 # Add your list of TXT file URLs here
 TXT_FILES = [
-    "https://github.com/insa-ship-it/text-combiner/raw/refs/heads/main/combos/143.244.35.74_80.txt",
-    "https://github.com/insa-ship-it/text-combiner/raw/refs/heads/main/combos/172.110.221.91_8080.txt",
+    "https://github.com/insa-ship-it/text-combiner-test/raw/refs/heads/main/Combos/DR-combined2026-1.txt",
+    "https://github.com/insa-ship-it/text-combiner-test/raw/refs/heads/main/Combos/exploit_combo.txt", 
+    "https://github.com/insa-ship-it/text-combiner-test/raw/refs/heads/main/Combos/DRblackpawsmrmike.txt",
 ]
 
 # Output file
