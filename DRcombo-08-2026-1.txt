@@ -1,6 +1,3 @@
-# Generated on 2026-08-17T06:31:55.682495 UTC
-# Total unique lines: 6181
-
 Ebindues:Bluecollar13
 loaner1:sheeba19
 pclay40@yahoo.com:mousey56
