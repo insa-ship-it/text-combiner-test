@@ -4,9 +4,23 @@ from datetime import datetime
 # ===== CONFIGURATION =====
 # Add your list of TXT file URLs here
 TXT_FILES = [
-    "https://github.com/insa-ship-it/text-combiner-test/raw/refs/heads/main/Combos/DR-combined2026-1.txt",
-    "https://github.com/insa-ship-it/text-combiner-test/raw/refs/heads/main/Combos/exploit_combo.txt", 
-    "https://github.com/insa-ship-it/text-combiner-test/raw/refs/heads/main/Combos/DRblackpawsmrmike.txt",
+    "https://github.com/insa-ship-it/text-combiner-test/raw/refs/heads/main/Combos/013tv.com_8080.txt",
+    "https://github.com/insa-ship-it/text-combiner-test/raw/refs/heads/main/Combos/0nmlause74.the-ninna.co.txt", 
+    "https://github.com/insa-ship-it/text-combiner-test/raw/refs/heads/main/Combos/103.240.150.229_80.txt",
+    "https://github.com/insa-ship-it/text-combiner-test/raw/refs/heads/main/Combos/138.199.41.89_22161.txt",
+    "https://github.com/insa-ship-it/text-combiner-test/raw/refs/heads/main/Combos/143.244.35.74_80.txt",
+    "https://github.com/insa-ship-it/text-combiner-test/raw/refs/heads/main/Combos/173.233.74.190_25461.txt",
+    "https://github.com/insa-ship-it/text-combiner-test/raw/refs/heads/main/Combos/206.212.242.25_80.txt",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
 ]
 
 # Output file
